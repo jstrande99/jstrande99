@@ -1,4 +1,4 @@
-# 💫 I am currently the lead AI developer
+# 💫 AI developer 💫
 
 
 # 💻 Tech Stack:
